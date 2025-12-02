@@ -16,9 +16,8 @@ The final result is an interactive dashboard showing sales trends, product perfo
 
 | File/Folder | Description |
 |------------|-------------|
-| `Dataset/sales_data.xlsx` | Raw Excel dataset used for analysis |
+| `Dataset/sales_dataset.xlsx` | Raw Excel dataset used for analysis |
 | `Dashboard/sales_dashboard.xlsx` | Final dashboard created using pivot tables and charts |
-| `README.md` | Documentation for the project |
 
 ---
 
@@ -100,7 +99,7 @@ Designed visualizations using:
 ## 📝 How to Use
 
 1. Download the files  
-2. Open `sales_dashboard.xlsx`  
+2. Open `sales_dashboard.xlsx` 
 3. Use the slicers to filter data  
 4. Explore charts & insights  
 
@@ -115,4 +114,4 @@ The final dashboard includes KPIs, charts, and slicers arranged neatly for easy 
 ## 📬 Contact
 https://www.linkedin.com/in/g-janvi/
 If you have suggestions or want more analysis projects, feel free to reach out!
-<img width="1229" height="627" alt="sales_dashboard" src="https://github.com/user-attachments/assets/e8b95795-6376-414a-85e7-e58e09639cc2" />
+
